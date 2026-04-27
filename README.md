@@ -43,6 +43,7 @@ app/
 
 ---
 ## 🚀 How to Run 
+
 1. Clone the repository
 bash
 git clone https://github.com/kasaksingh550-oss/Ayurvedic-Care-App.git
@@ -61,6 +62,7 @@ git clone https://github.com/kasaksingh550-oss/Ayurvedic-Care-App.git
 
 
 **##📌Future Improvements**
+
 Cloud database integration (Firebase)
 AI-based Ayurvedic suggestions
 Diet & medicine recommendation system
@@ -68,6 +70,7 @@ Reminder notifications
 
 
 **##👨‍💻 Developer**
+
 Kasak Singh
 
 **📜 License**
