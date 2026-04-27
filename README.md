@@ -23,9 +23,10 @@ The Ayurvedic Care App is a personalized Android application designed to provide
 
 ---
 
-## 📂 Project Structureapp/
+## 📂 Project Structure
+app/
 ├── java/com/apps/ayurvedcareproject
-│ ├── LoginActivity.java
+  ├── LoginActivity.java
 │ ├── RegisterActivity.java
 │ ├── HomeActivity.java
 │ ├── HistoryActivity.java
@@ -41,30 +42,32 @@ The Ayurvedic Care App is a personalized Android application designed to provide
 
 
 ---
-
-## 🚀 How to Run
-
-1. Clone the repository  
-```bash
+## 🚀 How to Run 
+1. Clone the repository
+bash
 git clone https://github.com/kasaksingh550-oss/Ayurvedic-Care-App.git
 2.Open project in Android Studio
 3. Sync Gradle files
 4. Run on emulator or physical device
-🔐 Login Screen
-<img width="288" height="498" src="https://github.com/user-attachments/assets/a86afbbe-0804-4535-89ef-c7fcf4dac501" />
-📝 Register Screen
-<img width="258" height="486" src="https://github.com/user-attachments/assets/54cba937-0699-4ce2-97f6-2c2b0dd6ece1" />
-🏠 Home Screen
-<img width="276" height="496" src="https://github.com/user-attachments/assets/de369bf7-91d3-43e2-99a2-38132993eacc" />
-📊 History Screen
-<img width="253" height="476" src="https://github.com/user-attachments/assets/6f5ae212-f91c-435d-a339-08e8e504531d" />
-📌 Future Improvements
+
+**##📸 App Screenshots**
+
+<p float="left">
+  <img src="screenshots/login.png" width="250"/>
+  <img src="screenshots/register.png" width="250"/>
+  <img src="screenshots/home.png" width="250"/>
+  <img src="screenshots/history.png" width="250"/>
+</p>
+
+
+**##📌Future Improvements**
 Cloud database integration (Firebase)
 AI-based Ayurvedic suggestions
 Diet & medicine recommendation system
 Reminder notifications
-👨‍💻 Developer
 
+
+**##👨‍💻 Developer**
 Kasak Singh
 
 **📜 License**
