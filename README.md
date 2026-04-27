@@ -63,10 +63,13 @@ git clone https://github.com/kasaksingh550-oss/Ayurvedic-Care-App.git
 
 **##📌Future Improvements**
 
-Cloud database integration (Firebase)
-AI-based Ayurvedic suggestions
-Diet & medicine recommendation system
-Reminder notifications
+1.Cloud database integration (Firebase)
+
+2.AI-based Ayurvedic suggestions
+
+3.Diet & medicine recommendation system
+
+4.Reminder notifications
 
 
 **##👨‍💻 Developer**
