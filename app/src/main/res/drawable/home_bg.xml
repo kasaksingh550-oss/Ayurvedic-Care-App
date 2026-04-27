@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <gradient
+                android:startColor="#F1F8E9"
+                android:endColor="#DCEDC8"
+                android:angle="90"/>
+        </shape>
+    </item>
+    <item android:top="20dp" android:right="20dp">
+        <bitmap
+            android:src="@drawable/leaf_logo"
+            android:alpha="0.05"
+            android:gravity="top|right" />
+    </item>
+    <item android:bottom="40dp" android:left="20dp">
+        <bitmap
+            android:src="@drawable/leaf_logo"
+            android:alpha="0.05"
+            android:gravity="bottom|left" />
+    </item>
+</layer-list>
